@@ -1,0 +1,15 @@
+/Users/ivanepifanov/GB_Education/C#_Practic/HomeWork/Seminar4/Task_25/obj/Debug/net6.0/Task_25.csproj.AssemblyReference.cache
+/Users/ivanepifanov/GB_Education/C#_Practic/HomeWork/Seminar4/Task_25/obj/Debug/net6.0/Task_25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivanepifanov/GB_Education/C#_Practic/HomeWork/Seminar4/Task_25/obj/Debug/net6.0/Task_25.AssemblyInfoInputs.cache
+/Users/ivanepifanov/GB_Education/C#_Practic/HomeWork/Seminar4/Task_25/obj/Debug/net6.0/Task_25.AssemblyInfo.cs
+/Users/ivanepifanov/GB_Education/C#_Practic/HomeWork/Seminar4/Task_25/obj/Debug/net6.0/Task_25.csproj.CoreCompileInputs.cache
+/Users/ivanepifanov/GB_Education/C#_Practic/HomeWork/Seminar4/Task_25/bin/Debug/net6.0/Task_25
+/Users/ivanepifanov/GB_Education/C#_Practic/HomeWork/Seminar4/Task_25/bin/Debug/net6.0/Task_25.deps.json
+/Users/ivanepifanov/GB_Education/C#_Practic/HomeWork/Seminar4/Task_25/bin/Debug/net6.0/Task_25.runtimeconfig.json
+/Users/ivanepifanov/GB_Education/C#_Practic/HomeWork/Seminar4/Task_25/bin/Debug/net6.0/Task_25.dll
+/Users/ivanepifanov/GB_Education/C#_Practic/HomeWork/Seminar4/Task_25/bin/Debug/net6.0/Task_25.pdb
+/Users/ivanepifanov/GB_Education/C#_Practic/HomeWork/Seminar4/Task_25/obj/Debug/net6.0/Task_25.dll
+/Users/ivanepifanov/GB_Education/C#_Practic/HomeWork/Seminar4/Task_25/obj/Debug/net6.0/refint/Task_25.dll
+/Users/ivanepifanov/GB_Education/C#_Practic/HomeWork/Seminar4/Task_25/obj/Debug/net6.0/Task_25.pdb
+/Users/ivanepifanov/GB_Education/C#_Practic/HomeWork/Seminar4/Task_25/obj/Debug/net6.0/Task_25.genruntimeconfig.cache
+/Users/ivanepifanov/GB_Education/C#_Practic/HomeWork/Seminar4/Task_25/obj/Debug/net6.0/ref/Task_25.dll
