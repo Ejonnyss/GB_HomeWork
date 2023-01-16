@@ -17,6 +17,5 @@ for(int i = 1; i < B; i++)
    X = X * A;
 }
 Console.Write($"Число {A} в степени {B} равно:{X}");
-
 // Console.WriteLine($"Число {A} в степени {B} равно: {Math. Pow(A, B)}");
 
