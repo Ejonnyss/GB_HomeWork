@@ -1,24 +1,18 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-
-// Задача 25: Напишите цикл, который принимает на вход 
-// два числа (A и B) и возводит число A в натуральную 
-// степень B.
-// 3, 5 -> 243 (3⁵)
-// 2, 4 -> 16
+﻿// Задача 27: Напишите программу, которая принимает 
+// на вход число и выдаёт сумму цифр в числе.
+// 452 -> 11
+// 82 -> 10
+// 9012 -> 12
 
 Console.Clear();
 
-Console.WriteLine("Введите число A: ");
-int A = int.Parse(Console.ReadLine());
-Console.WriteLine("Введите число B: ");
-int B = int.Parse(Console.ReadLine());
-int X = A;
+Console.WriteLine("Введите число: ");
+int num = int.Parse(Console.ReadLine());
+int sum = 0;
 
-for(int i = 1; i < B; i++)
+for (int i = 0; i < num; i++)
 {
-   X = X * A;
+   sum = sum + (num%10);
+   num = num / 10;
 }
-Console.Write($"Число {A} в степени {B} равно:{X}");
-// Console.WriteLine($"Число {A} в степени {B} равно: {Math. Pow(A, B)}");
-
+Console.WriteLine($"Сумма цифр равна: {sum}");
